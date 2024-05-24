@@ -41,6 +41,10 @@ Provision the necessary AWS services needed for running the application:
 
 - aws: `http://myawsbucket-185756520407.s3-website-us-east-1.amazonaws.com/`
 
+## Bucket website endpoint api
+
+- `http://udagram-api-dev.eba-tdssbkjs.us-east-1.elasticbeanstalk.com/`
+
 ## License
 
 [License](LICENSE.txt)
