@@ -18,6 +18,4 @@ export const config = {
   jwt: {
     secret: process.env.JWT_SECRET,
   },
-  aws_access_key_id: "AKIASWP7TR7L5E5EVOEJ",
-  aws_secret_access_key: "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",
 };
