@@ -9,8 +9,8 @@ dotenv.config();
 export const config = {
   username: "postgres",
   password: "postgres",
-  database: "database-2",
-  host: "database-2.czcz8c2ioal5.us-east-1.rds.amazonaws.com",
+  database: "postgres",
+  host: "database-1.czcz8c2ioal5.us-east-1.rds.amazonaws.com",
   aws_region: "",
   aws_profile: "",
   aws_media_bucket: "arn:aws:s3:::myawsbucket-185756520407",
@@ -18,4 +18,6 @@ export const config = {
   jwt: {
     secret: process.env.JWT_SECRET,
   },
+  aws_access_key_id: "AKIASWP7TR7L5E5EVOEJ",
+  aws_secret_access_key: "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",
 };

@@ -43,7 +43,7 @@ Provision the necessary AWS services needed for running the application:
 
 ## Bucket website endpoint api
 
-- `http://udagram-api-dev.eba-tdssbkjs.us-east-1.elasticbeanstalk.com/`
+- `http://udagram-api-dev-3-env.eba-9zqshypt.us-east-1.elasticbeanstalk.com/api/v0`
 
 ## License
 
